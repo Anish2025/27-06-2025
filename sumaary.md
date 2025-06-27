@@ -94,9 +94,3 @@ This document summarizes the introductory session and Week 1 of the "RAG and AI 
 - The course is designed to bridge the gap between academic understanding and real-world deployment, with a strong emphasis on hands-on practice and teamwork.
 - Participants are encouraged to engage deeply, leverage community support, and apply learnings directly to workplace or startup projects.
 
----
-
-## Next Steps
-- Upcoming sessions will cover practical RAG system implementation, including code walkthroughs, advanced retrieval techniques, and multi-modal (text, image, tabular) RAG.
-- Students should set up their development environments, review foundational materials, and prepare for collaborative project work.
-- Active participation and engagement with TAs and peers are key to maximizing learning outcomes.
